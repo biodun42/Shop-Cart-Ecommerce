@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
-import Home from "./Home/Home.jsx";
+import Home from "./home/Home.jsx";
 import Blog from "./blog/Blog.jsx";
 import Shop from "./shop/Shop.jsx";
 import "./index.css";
@@ -50,10 +50,12 @@ const router = createBrowserRouter([
     ],
   },
   {
-    path: "/login", element: <Login />,
+    path: "/login",
+    element: <Login />,
   },
   {
-    path: "/sign-up", element: <SignUp />,
+    path: "/sign-up",
+    element: <SignUp />,
   },
 ]);
 
