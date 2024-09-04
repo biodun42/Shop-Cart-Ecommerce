@@ -1,7 +1,7 @@
 const blogList = [
   {
     id: 1,
-    imgUrl: "/src/assets/images/blog/01.jpg",
+    imgUrl: "../../public/images/blog/01.jpg",
     imgAlt: "Blog Thumb",
     title: "The Future of Business Reporting and Strategic Planning",
     desc: "Discover how forward-thinking companies are revolutionizing business reporting with cutting-edge strategies and technologies.",
@@ -35,7 +35,7 @@ const blogList = [
   },
   {
     id: 2,
-    imgUrl: "/src/assets/images/blog/02.jpg",
+    imgUrl: "../../public/images/blog/02.jpg",
     imgAlt: "Blog Thumb",
     title: "Unlocking Financial Insights Through Advanced Reporting",
     desc: "Explore how innovative financial reporting can provide deep insights and drive better decision-making for businesses.",
@@ -69,7 +69,7 @@ const blogList = [
   },
   {
     id: 3,
-    imgUrl: "/src/assets/images/blog/03.jpg",
+    imgUrl: "../../public/images/blog/03.jpg",
     imgAlt: "Blog Thumb",
     title: "Consulting Insights: Transforming Business Reporting",
     desc: "Gain expert insights into how consulting firms are reshaping the landscape of business reporting to stay ahead of the curve.",
@@ -103,7 +103,7 @@ const blogList = [
   },
   {
     id: 4,
-    imgUrl: "/src/assets/images/blog/04.jpg",
+    imgUrl: "../../public/images/blog/04.jpg",
     imgAlt: "Blog Thumb",
     title: "Mastering Social Media Strategy and Visual Design",
     desc: "Learn how to create a powerful social media strategy complemented by stunning visual design to capture your audience’s attention.",
@@ -137,7 +137,7 @@ const blogList = [
   },
   {
     id: 5,
-    imgUrl: "/src/assets/images/blog/05.jpg",
+    imgUrl: "../../public/images/blog/05.jpg",
     imgAlt: "Blog Thumb",
     title: "Choosing the Right Online Course for Your Career Growth",
     desc: "A comprehensive guide to selecting the perfect online course that aligns with your professional goals and ensures success.",
@@ -171,7 +171,7 @@ const blogList = [
   },
   {
     id: 6,
-    imgUrl: "/src/assets/images/blog/06.jpg",
+    imgUrl: "../../public/images/blog/06.jpg",
     imgAlt: "Blog Thumb",
     title: "Real-World Projects: Learning Through Hands-On Experience",
     desc: "Understand the importance of real-world projects in developing practical skills and gaining valuable experience.",
@@ -205,7 +205,7 @@ const blogList = [
   },
   {
     id: 7,
-    imgUrl: "/src/assets/images/blog/07.jpg",
+    imgUrl: "../../public/images/blog/07.jpg",
     imgAlt: "Blog Thumb",
     title: "The Power of Intrinsic Motivation in Student Success",
     desc: "Delve into how intrinsic motivation drives student success and the best practices to nurture it in educational settings.",
@@ -239,7 +239,7 @@ const blogList = [
   },
   {
     id: 8,
-    imgUrl: "/src/assets/images/blog/08.jpg",
+    imgUrl: "../../public/images/blog/08.jpg",
     imgAlt: "Blog Thumb",
     title: "Beyond Grades: Innovative Approaches to Student Writing",
     desc: "Explore alternative methods to traditional grading that encourage deeper learning and creativity in student writing.",
@@ -273,7 +273,7 @@ const blogList = [
   },
   {
     id: 9,
-    imgUrl: "/src/assets/images/blog/09.jpg",
+    imgUrl: "../../public/images/blog/09.jpg",
     imgAlt: "Blog Thumb",
     title: "Global Learning Challenges in Public Education",
     desc: "An in-depth look at the challenges and opportunities in global learning within the public education system.",

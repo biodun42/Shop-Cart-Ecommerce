@@ -10,22 +10,22 @@ import { Autoplay } from "swiper/modules";
 
 const sponsorList = [
   {
-    imgUrl: "/src/assets/images/sponsor/01.png",
+    imgUrl: "../../public/images/sponsor/01.png",
   },
   {
-    imgUrl: "/src/assets/images/sponsor/02.png",
+    imgUrl: "../../public/images/sponsor/02.png",
   },
   {
-    imgUrl: "/src/assets/images/sponsor/03.png",
+    imgUrl: "../../public/images/sponsor/03.png",
   },
   {
-    imgUrl: "/src/assets/images/sponsor/04.png",
+    imgUrl: "../../public/images/sponsor/04.png",
   },
   {
-    imgUrl: "/src/assets/images/sponsor/05.png",
+    imgUrl: "../../public/images/sponsor/05.png",
   },
   {
-    imgUrl: "/src/assets/images/sponsor/06.png",
+    imgUrl: "../../public/images/sponsor/06.png",
   },
 ];
 const Sponsor = () => {
